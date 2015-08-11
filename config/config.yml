@@ -1,0 +1,6 @@
+development:
+  :asx_list_url: 'http://www.asx.com.au/asx/research/ASXListedCompanies.csv'
+  :filter_volume: 50000
+  :filter_price: 0.2
+  :max_days: 20
+  :exchange_name: 'ASX'
